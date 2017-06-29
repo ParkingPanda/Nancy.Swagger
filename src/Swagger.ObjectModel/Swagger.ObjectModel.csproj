@@ -8,7 +8,7 @@
     <Authors>Kristian Hellang;Ciaran Downey;Contributors</Authors>
     <TargetFrameworks>net452;netstandard1.6;netcoreapp1.0</TargetFrameworks>
     <AssemblyName>Swagger.ObjectModel</AssemblyName>
-    <PackageId>Swagger.ObjectModel</PackageId>
+    <PackageId>SpotHero.Swagger.ObjectModel</PackageId>
     <PackageTags>Swagger</PackageTags>
     <PackageIconUrl>https://raw.githubusercontent.com/yahehe/Nancy.Swagger/master/etc/logo.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/yahehe/Nancy.Swagger</PackageProjectUrl>
@@ -20,6 +20,7 @@
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'net452' ">
